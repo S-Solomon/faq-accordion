@@ -20,7 +20,7 @@ body {
     width: 930px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    background-color: #fff;
+    background-color: white;
     border-radius: 20px;
     margin: 25px;
 }
@@ -33,9 +33,11 @@ body {
 
 .sec-image {
     position: absolute;
-    top: -300;
-    left: -580px;
+    top: 1;
+    left: -90px;
     z-index: -1;
+    width: 100%;
+    
 }
 
 .outer {
@@ -114,4 +116,36 @@ input:checked ~ label {
 input:checked ~ label span {
     transform: rotate(180deg);
     transition: 0.4s;
+}
+
+@media (max-width: 890px) {
+    .container {
+        max-width: 450px;
+        grid-template-columns: repeat(1, 1fr);
+        margin-top: 120px;
+    }
+
+    .image-container {
+        padding: 0;
+        margin: 0 auto;
+        margin-top: -110px;
+    }
+
+    .inner {
+        overflow: visible;
+    }
+
+    .outer {
+        display: none;
+    }
+
+    .sec-image {
+        top: 110px;
+        left: -50px;
+        width: 220%;
+    }
+
+    .faq-container h2 {
+        text-align: center;
+    }
 }
