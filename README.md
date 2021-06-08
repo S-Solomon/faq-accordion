@@ -40,8 +40,9 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/S-Solomon/faq-accordion)
-- Live Site URL: [Add live site URL here](https://fm-faq-accordion.netlify.app)
+- Solution URL: [here](https://github.com/S-Solomon/faq-accordion)
+- Live Site URL: [here](https://fm-faq-accordion.netlify.app)
+- Visit the challenge: [here](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
 
 ## My process
 
