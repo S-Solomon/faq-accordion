@@ -40,8 +40,8 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/S-Solomon/faq-accordion)
+- Live Site URL: [Add live site URL here](https://fm-faq-accordion.netlify.app)
 
 ## My process
 
@@ -57,6 +57,6 @@ Mobile View
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/S-Solomon)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
